@@ -1,0 +1,5 @@
+/Users/tarikkrestalica/Desktop/GAM-110-Projects/TunnelGame/TunnelGame/bin/Debug/TunnelGame.exe
+/Users/tarikkrestalica/Desktop/GAM-110-Projects/TunnelGame/TunnelGame/bin/Debug/TunnelGame.pdb
+/Users/tarikkrestalica/Desktop/GAM-110-Projects/TunnelGame/TunnelGame/obj/Debug/TunnelGame.csproj.CoreCompileInputs.cache
+/Users/tarikkrestalica/Desktop/GAM-110-Projects/TunnelGame/TunnelGame/obj/Debug/TunnelGame.exe
+/Users/tarikkrestalica/Desktop/GAM-110-Projects/TunnelGame/TunnelGame/obj/Debug/TunnelGame.pdb
